@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE can SYSTEM "joueur.dtd">
+<can>
+    <equipe>
+        <nom>Black Star</nom>
+        <acronyme>BSG</acronyme>
+        <pays>Ghana</pays>
+        <annee_creation>1957</annee_creation>
+        <joueurs>
+            <joueur  annee_signature="2010" >Asamoah Gyan</joueur>
+            <joueur  annee_signature="2012" >Andre Ayew</joueur>
+            
+        </joueurs>
+    </equipe>
+
+    <equipe>
+        <nom>Éperviers</nom>
+        <acronyme>ETG</acronyme>
+        <pays>Togo</pays>
+        <annee_creation>1960</annee_creation>
+        <joueurs>
+            <joueur  annee_signature="2005" >Emmanuel Adebayor</joueur>
+            <joueur  annee_signature="2014" >Floyd Ayité</joueur>
+            
+        </joueurs>
+    </equipe>
+</can>

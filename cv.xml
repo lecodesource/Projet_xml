@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<personne xmlns:xsi="https://www.w3schools.com" xsi:noNamespaceSchemaLocation="cv.xsd">
+    <nom>money</nom>
+    <prenom> laurent  </prenom>
+    <datenaiss>2000-12-12 </datenaiss>
+</personne>
+
+ 

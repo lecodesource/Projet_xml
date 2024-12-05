@@ -1,0 +1,18 @@
+
+etudiant {
+    background-color: yellow;
+    font-size: 16px;
+ }
+ 
+ nom {
+    color: blue;
+    font-weight: bold;
+ }
+ 
+ adresse {
+    color: green;
+ }
+ 
+ age {
+    color: red;
+ }

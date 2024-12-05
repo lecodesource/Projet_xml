@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <semaine>
+        <lundi>
+            <entree></entree>
+    <plat>
+        <viande></viande>
+        <legumes></legumes>
+    </plat>
+    <desert></desert>
+        </lundi>
+        <mardi><entree></entree>
+            <plat>
+                <viande></viande>
+                <legumes></legumes>
+            </plat>
+            <desert></desert></mardi>
+            <mercredi>
+                <entree></entree>
+                <plat>
+                    <viande></viande>
+                    <legumes></legumes>
+                </plat>
+                <desert></desert>
+            </mercredi>
+                <jeudi><entree></entree>
+                    <plat>
+                        <viande></viande>
+                        <legumes></legumes>
+                    </plat>
+                    <desert></desert></jeudi>
+                    <vendredi><entree></entree>
+                        <plat>
+                            <viande></viande>
+                            <legumes></legumes>
+                        </plat>
+                        <desert></desert></vendredi>
+                        <samedi><entree></entree>
+                            <plat>
+                                <viande></viande>
+                                <legumes></legumes>
+                            </plat>
+                            <desert></desert></samedi>
+    </semaine>
+    
+                       
+    
+</menu>

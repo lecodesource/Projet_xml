@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livre>
+  <!--  voici les rendeignements sur les auteurs -->
+<liste_auteur>
+  <nomauteur1></nomauteur1>
+  <prenomauteur1></prenomauteur1>
+  <nomauteur2></nomauteur2>
+  <prenomauteur2></prenomauteur2>
+</liste_auteur>
+<!-- la premiere sectionn et ses chapitres ainsi que ses paragraphes-->
+ <section1> 
+  <titre></titre>
+  <chapitre1>
+    <tritre></tritre>
+    <paragraphe1></paragraphe1>
+    <paragraphe2></paragraphe2>
+  </chapitre1>
+  <chapitre2>
+    <titre></titre>
+    <paragraphe3></paragraphe3>
+    <paragraphe4></paragraphe4>
+  </chapitre2>
+ </section1>
+<!-- la deuxieme sectionn et ses chapitres ainsi que ses paragraphes-->
+ <section2>
+  <titre></titre>
+  <chapitre3>
+    <titre></titre>
+    <paragraphe5></paragraphe5>
+    <paragraphe6></paragraphe6>
+  </chapitre3>
+  <chapitre4>
+    <titre></titre>
+    <paragraphe7></paragraphe7>
+    <paragraphe8></paragraphe8>
+  </chapitre4>
+ </section2>
+
+</livre>

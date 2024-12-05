@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT can (equipe+)>
+<!ELEMENT equipe (nom, acronyme, pays, annee_creation, joueurs)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT acronyme (#PCDATA)>
+<!ELEMENT pays (#PCDATA)>
+<!ELEMENT annee_creation (#PCDATA)>
+<!ELEMENT joueurs (joueur+)>
+<!ELEMENT joueur (#PCDATA)>
+<!ATTLIST joueur
+          annee_signature CDATA #REQUIRED>
